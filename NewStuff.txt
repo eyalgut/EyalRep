@@ -1,6 +1,0 @@
-New stuff been edited again  and again !!
-<<<<<<< HEAD
-new branch hotfix
-=======
-
-fix2222222222222
